@@ -61,4 +61,26 @@ public class Order {
 
         return orderTotal;
     }
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("ORDER SUMMARY: \n");
+        sb.append("Order moment: " + this.moment + "\n");
+        sb.append("Order Status: " + this.getStatus() + "\n");
+        sb.append("Client: " + this.client.getName()
+                + " (" + this.client.getBirthDate() +
+                ") " + " - " + this.client.getEmail() + "\n");
+        sb.append("Order items: " + "\n");
+        for (OrderItem item : items) {
+            sb.append(item.getProduct().getName() + ", $"
+                    + item.getPrice() + ", Quantity: "
+                    + item.getQuantity() + ", Subtotal: $"
+                    + item.subTotal() + "\n");
+        }
+
+        sb.append("Total price: $" + total());
+
+        return sb.toString();
+    }
 }
