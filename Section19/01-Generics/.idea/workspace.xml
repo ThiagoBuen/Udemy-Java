@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4945ec51-ca8f-45fd-9d8f-e31ad26e8e89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/PaymentService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/src/App/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/src/model/entities/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/src/model/entities/Installment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/src/model/services/OnlinePaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/src/model/services/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section18/02-PaymentService/PaymentService/src/model/services/PaypalService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QU9FZIR5kCNIOiaNBGsmqd7Na3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "C:/Users/thiag/OneDrive/Documentos/GIt/Udemy-Java/Section19/01-Generics"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thiag\OneDrive\Documentos\GIt\Udemy-Java\Section19\01-Generics" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4945ec51-ca8f-45fd-9d8f-e31ad26e8e89" name="Changes" comment="" />
+      <created>1685397192645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685397192645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
